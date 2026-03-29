@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern Minimalist Palette -->
+    <color name="primaryColor">#2C839B</color>
+    <color name="primaryLightColor">#E0F2F1</color>
+    <color name="primaryDarkColor">#004D40</color>
+
+    <!-- Backgrounds (Minimalist Soft Grey/Blue) -->
+    <color name="backgroundColor">#F8FAFB</color>
+    <color name="surfaceColor">#FFFFFF</color>
+
+    <!-- Permission Warning Color -->
+    <color name="warningColor">#FFB300</color>
+    <color name="errorColor">#E53935</color>
+
+    <!-- Text -->
+    <color name="primaryTextColor">#1A1C1E</color>
+    <color name="secondaryTextColor">#5E6368</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
